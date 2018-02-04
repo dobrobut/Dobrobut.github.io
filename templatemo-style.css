@@ -51,7 +51,7 @@ a:focus {
 .tm-section { margin-bottom: 60px; }
 .tm-welcome-title {	font-size: 2.4rem; }
 .tm-section-title {	font-size: 2.2rem; }
-.tm-content-div { padding: 20px; }
+.tm-content-div { padding: 15px; }
 .tm-margin-b-45 { margin-bottom: 45px; }
 .tm-margin-b-30 { margin-bottom: 30px; }
 p { line-height: 2; }
@@ -196,7 +196,7 @@ textarea:-ms-input-placeholder {
 
 	.tm-section { margin-bottom: 50px; }
 
-	.tm-content-div { padding: 20px 20px 20px 20px;	}
+	.tm-content-div { padding: 15px 15px 15px 15px;	}
 
 	.tm-img-container-1 {
 		margin-bottom: 10px;
